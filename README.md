@@ -1,6 +1,6 @@
 # drake-sandbox
 
-My research project for ECE 9503: Robotic Manipulators Fall 2026. 
+Some playing around using the Drake toolbox in Python.
 
 ```sh
 .venv\Scripts\activate
