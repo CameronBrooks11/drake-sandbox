@@ -1,0 +1,4 @@
+numpy==1.26.4
+websockets==9.1
+roboticstoolbox-python==1.1.1
+spatialmath-python==1.1.14
