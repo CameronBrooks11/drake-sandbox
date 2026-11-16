@@ -1,2 +1,2 @@
-drake
-meshcat
+drake==1.46.0
+meshcat==0.3.2
